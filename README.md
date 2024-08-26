@@ -1,1 +1,11 @@
 # CS-350
+### For this README we were tasked to select two project artifacts from this course that I think best reflected my talents. The artifacts that I chose were milestone two where we were working with the UART and GPIO drivers to turn the on board LEDs ON or OFF depending on what the user typed and our final project, where we tied everything we learned throughout the course together.
+## Module Two Milestone
+### Our overall goal was to control the LEDs on the board, using a state machine to turn on an LED when the user types ON and off when the user types OFF.
+### I particularly did troubleshooting extremely well. This was still very early into the course, only being the third week and we were still using a new program and interface that we had really only used once, in the previous weeks getting the board up and running. Being able to figure out what was going on and what was actually going wrong was a huge boost to my initial confidence to boost my comfortability with the resources we were using.
+### I managed to not initially read that we were to use a state machine within our code, so I could very easily improve by adding that into the code. But I am glad I was able to get it to work regardless.
+### While the very early stages, this added the beginning stages of using the tools of the TI SimpleLink WiFi CC3220S and Code Composer Studio. In addition, I have more resources in that or using UART and GPIO drivers to control the board.
+### If I were to go into a future systems engineering role, I could very easily end up using all of these skills into future work projects. As all of these are farily early skills, they will likely be expanded upon, but the more advanced skills still build upon these early skills.
+### My code is maintainable because is would be easy for someone with the knowledge to look at my code and be able to debug or take over and add their own code to it. It is readable by adding in line comments to help explain what the code is doing as well as avoiding complex syntax where able. The code is adaptable as it avoids specific parameters where able, allowing for easier future use of the same code, with very few if any changes.
+## Final Project
+### For the final project
